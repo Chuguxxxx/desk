@@ -1,7 +1,7 @@
 # desk
 ## Encabezado 2
 ### Encabezado 3
-A IVAN LE GUSTA LAS **TRABAJAS*
+A IVAN LE GUSTA LAS **TRABAS*
 **_dddd_** 
 Lista no ordenadaÇ:
 - Item
